@@ -1,0 +1,12 @@
+var animal = "bear";
+var isCuddly = true;
+animal = "dog";
+var num8 = 10;
+var num3 = 80;
+var quotient = num3/num8;
+// console.log(quotient);
+var favoriteFilms = ["The Notebook", "The Diary", "The Journal"];
+favoriteFilms.shift();
+// console.log(favoriteFilms);
+animal.length;
+// console.log(animal.length);
